@@ -39,7 +39,7 @@ Also to use this mod you need to install all of the following mods:
 		* AddOn/
 		* VanillaOverride/
 
-- [Bottle Label Mod (v1.92)](https://bluebottlegames.com/node/4038) and extract to:
+- [Bottle Label Mod (v1.92)](https://www.nexusmods.com/neoscavenger/mods/3?tab=images) and extract to:
 	+ [NeoSavengerGameFolder]/Mods/BottleLabels/
 		* Merge_MmMoD/
 		* Mod/
@@ -50,7 +50,7 @@ Also to use this mod you need to install all of the following mods:
 		* Over_OHM/
 		* Patch_MmMoD/
 		
-- [Shouldered Mod (v2.01)](https://bluebottlegames.com/node/3906) and extract to:
+- [Shouldered Mod (v2.01)](https://www.nexusmods.com/neoscavenger/mods/1?tab=files) and extract to:
 	+ [NeoSavengerGameFolder]/Mods/Shouldered/
 		* Merge_NSE/
 		* Mod/
@@ -66,7 +66,7 @@ Also to use this mod you need to install all of the following mods:
 	+ [NeoSavengerGameFolder]/Mods/BlackguardMods/
 		* BlueRot/
 		
-- [Fishing Mod (v2.02)](https://bluebottlegames.com/node/3889) and extract to:
+- [Fishing Mod (v2.02)](https://www.nexusmods.com/neoscavenger/mods/7?tab=description) and extract to:
 	+ [NeoSavengerGameFolder]/Mods/BlackguardMods/
 		* Merge_BBC/
 		* Merge_MoD/
